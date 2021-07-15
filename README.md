@@ -47,5 +47,5 @@ Run ```npm start``` or ```node server.js``` to start the app. Go to the localhos
   This project is licensed under the terms of the [MIT](https://opensource.org/licenses/MIT) license.
 
   ## Questions
-  https://github.com/vasylynash  
-  For questions and suggestions, contact me at vasylyna.shevadutska@gmail.com.
+  https://github.com/Dimavich 
+  For questions and suggestions, contact me at dmitriy.babich0@gmail.com
